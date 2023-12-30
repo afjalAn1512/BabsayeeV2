@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="blue_text_disable">#BABACC</color>
+    <color name="blue_pressed">#0C63CE</color>
+    <color name="blue_disable">#F2F2F7</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue_normal">#0E71EB</color>
+    <color name="input_hint">#BABACC</color>
+    <color name="setting_text">#232333</color>
+    <color name="color_public_label">#747487</color>
+    <color name="gray_color">#EFEFEF</color>
+    <color name="text_color_nav">#919191</color>
+
+
+    <color name="primary">#3E5902</color>
+    <color name="olive">#5D5B10</color>
+    <color name="red">#FF4D4D</color>
+    <color name="hint">#CB5C5B10</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF6310</color>
+    <color name="blue">#093269</color>
+    <color name="divider">#5C5B10</color>
+    <color name="eash">#E6E2E2</color>
+
+    <color name="level_0">#1abc9c</color>
+    <color name="level_1">#3498db</color>
+    <color name="level_2">#e67e22</color>
+    <color name="level_3">#8e44ad</color>
+    <color name="level_4">#f1c40f</color>
+    <color name="level_5">#2ecc71</color>
+    <color name="level_default">#000000</color>
+    <color name="gray">#C8C8C8</color>
+    <color name="gray5">#444444</color>
+    <color name="shadow">#40274001</color>
+    <color name="deep_black">#262626</color>
+    <color name="deep_white">#F8F8F8</color>
+</resources>
